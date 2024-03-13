@@ -1,1 +1,1 @@
-# csharp-01-aula_5
+Programa para registrar e avaliar bandas de música.
